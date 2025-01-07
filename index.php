@@ -126,33 +126,57 @@
 </section>
 <!-- slider end -->
 
-
-
-
-
-
-
 <!-- hosting start -->
-
-<div class="noanet-hosting-main-wrappper">
+<!-- <div class="noanet-hosting-main-wrappper">
    <div class="container custom-container">
       <div class="center-title-wrapper">
          <h4>Hostings. websites. stores</h4>
-         <h2>Our Service</h2>
+      </div>
+   </div>
+</div> -->
+<!-- hosting end -->
+
+<!-- service content start -->
+<div class="noanet-hosting-main-wrappper">
+   <div class="container custom-container">
+      <div class="center-title-wrapper">
+         <h2>Our Services</h2>
       </div>
    </div>
 </div>
 
-<!-- hosting end -->
-<!-- service content start -->
-
-
+<div class="container p-2" style="margin-right: -22px;">
+   <div class="row">
+      <div class="col-sm-4">
+         <div class="feature_box">
+            <img src="images/author.png" alt="Feature Image">
+            <h3>Awesome Feature</h3>
+            <p>Discover the amazing benefits of our feature. Enhance your experience with just a click.</p>
+            <a href="#">Learn More</a>
+         </div>
+      </div>
+      <div class="col-sm-4">
+         <div class="feature_box">
+            <img src="images/author.png" alt="Feature Image">
+            <h3>Awesome Feature</h3>
+            <p>Discover the amazing benefits of our feature. Enhance your experience with just a click.</p>
+            <a href="#">Learn More</a>
+         </div>
+      </div>
+      <div class="col-sm-4">
+         <div class="feature_box">
+            <img src="images/author.png" alt="Feature Image">
+            <h3>Awesome Feature</h3>
+            <p>Discover the amazing benefits of our feature. Enhance your experience with just a click.</p>
+            <a href="#">Learn More</a>
+         </div>
+      </div>
+   </div>
+</div>
 <!-- service content end -->
 
-
-
 <!-- banner section start -->
-<div class="container-fluid">
+<div class="container-fluid" style="border: solid lavenderblush;">
    <div class="row">
       <div class="col-6 justify-content-center bg-secondary p-5 d-flex">
          <div class="icon_box p-1">
@@ -174,46 +198,6 @@
    </div>
 </div>
 <!-- banner section end -->
-<!-- wordpress services end -->
-
-<div class="noanet-hosting-main-wrappper">
-   <div class="container custom-container">
-      <div class="center-title-wrapper">
-         <h2>Our Services</h2>
-      </div>
-   </div>
-</div>
-
-<div class="container">
-   <div class="row">
-      <div class="col-sm-4">
-         <div class="feature_box">
-            <img src="images/author.png" alt="Feature Image">
-            <h3>Awesome Feature</h3>
-            <p>Discover the amazing benefits of our feature. Enhance your experience with just a click.</p>
-            <a href="#">Learn More</a>
-         </div>
-      </div>
-      <div class="col-sm-4">
-         <div class="feature_box">
-            <img src="images/author.png" alt="Feature Image">
-            <h3>Awesome Feature</h3>
-            <p>Discover the amazing benefits of our feature. Enhance your experience with just a click.</p>
-            <a href="#">Learn More</a>
-         </div>
-      </div>
-      <div class="col-sm-4">
-         <div class="feature_box">
-            <img src="images/author.png" alt="Feature Image">
-            <h3>Awesome Feature</h3>
-            <p>Discover the amazing benefits of our feature. Enhance your experience with just a click.</p>
-            <a href="#">Learn More</a>
-         </div>
-      </div>
-   </div>
-</div>
-
-<!-- wordpress services end -->
 
 <!-- disacover start  -->
 

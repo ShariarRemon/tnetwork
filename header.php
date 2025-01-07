@@ -41,69 +41,68 @@
    </div> -->
    <!-- top to return -->
    <a href="javascript:;" id="return-to-top" class="change-bg2"> <i class="fas fa-angle-double-up"></i></a>
-     <!-- Dark mode btn start -->
-     <div class="switches-container">
-      <input type="radio" id="switchlight" name="switchPlan" value="Monthly" checked="checked" class="js-toggle-dark-mode"/>
-      <input type="radio" id="switchdark" name="switchPlan" value="Yearly" class="js-toggle-dark-mode"/>
+   <!-- Dark mode btn start -->
+   <div class="switches-container">
+      <input type="radio" id="switchlight" name="switchPlan" value="Monthly" checked="checked" class="js-toggle-dark-mode" />
+      <input type="radio" id="switchdark" name="switchPlan" value="Yearly" class="js-toggle-dark-mode" />
       <label for="switchlight">Light</label>
       <label for="switchdark">Dark</label>
       <div class="switch-wrapper">
-        <div class="switch">
-          <div>Light</div>
-          <div>Dark</div>
-        </div>
+         <div class="switch">
+            <div>Light</div>
+            <div>Dark</div>
+         </div>
       </div>
-    </div>
-  <!-- dark mode btn end -->
+   </div>
+   <!-- dark mode btn end -->
 
-<!-- top header start -->
-    <section>
-        <div class="top-header">
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-12 col-md-6 col-lg-6">
-                        <div class="copy-right-text">
-                            <p> <a href="javascript:;" class="phone-color">Phone: (800) 154 2545 , 548 2457</a> <a
-                                    href="mailto:noanet@example.com" class="email-color"> <span>Email :</span>
-                                    noanet@example.com</a></p>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-6 col-lg-6">
-                        <div class="ul-box-wrap">
-                            <ul class="social list-inline">
-                                <li>
-                                    <a href="javascript:;" title="">
-                                        <i class="fa-brands fa-facebook-f"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="javascript:;" title="">
-                                        <i class="fa-brands fa-twitter"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="javascript:;" title="">
-                                        <i class="fa-brands fa-youtube"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="javascript:;" title="">
-                                        <i class="fa-brands fa-linkedin-in"></i>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
+   <!-- top header start -->
+   <section>
+      <div class="top-header">
+         <div class="container">
+            <div class="row align-items-center">
+               <div class="col-12 col-md-6 col-lg-6">
+                  <div class="copy-right-text">
+                     <p> <a href="javascript:;" class="phone-color">Phone: (800) 154 2545 , 548 2457</a> <a
+                           href="mailto:noanet@example.com" class="email-color"> <span>Email :</span>
+                           noanet@example.com</a></p>
+                  </div>
+               </div>
+               <div class="col-12 col-md-6 col-lg-6">
+                  <div class="ul-box-wrap">
+                     <ul class="social list-inline">
+                        <li>
+                           <a href="javascript:;" title="">
+                              <i class="fa-brands fa-facebook-f"></i>
+                           </a>
+                        </li>
+                        <li>
+                           <a href="javascript:;" title="">
+                              <i class="fa-brands fa-twitter"></i>
+                           </a>
+                        </li>
+                        <li>
+                           <a href="javascript:;" title="">
+                              <i class="fa-brands fa-youtube"></i>
+                           </a>
+                        </li>
+                        <li>
+                           <a href="javascript:;" title="">
+                              <i class="fa-brands fa-linkedin-in"></i>
+                           </a>
+                        </li>
+                     </ul>
+                  </div>
+               </div>
             </div>
-        </div>
-    </section>
-    <!-- top header end -->
-
+         </div>
+      </div>
+   </section>
+   <!-- top header end -->
 
    <!-- header start -->
    <div class="main-header-wrapper1">
-     
+
       <div class="sb-main-header1 index-2-wrapper">
          <div class="menu-item-wrapper3 d-xl-block d-lg-block d-md-none d-sm-none d-none">
             <div class="container-fluid">
@@ -143,7 +142,7 @@
                      </nav>
                   </div>
                   <div class="login-text-wrapper">
-                    
+
                      <a class="customButton" href="javascript:;" data-bs-toggle="modal" data-bs-target="#myModal"> <span><i class="fas fa-user"></i>Login</span> </a>
                   </div>
                </div>
